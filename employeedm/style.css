@@ -1,0 +1,32 @@
+.jumbotron {
+    background-color: #F59B0D;
+    color           : #fff;
+    font-family: "Verdana", Times, serif;
+}
+
+th, td {
+    width: 16%;
+    text-align: center;
+}
+.panel-heading {
+	background-color: #F59B0D;
+	color 			: #fff;
+	font-family: "Verdana", Times, serif;
+	font-size: 200%;
+	text-align: center;
+}
+.panel-body {
+	background-color: #382E2C;
+	color           : #fff;
+	font-family: "Verdana", Times, serif;
+	font-size: 125%;
+
+}
+
+input {
+	margin-bottom: 1%;
+}
+
+#button_submit {
+	margin-top: 10px;
+}
